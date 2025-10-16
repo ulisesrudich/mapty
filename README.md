@@ -7,7 +7,7 @@ It allows users to log **running** or **cycling** workouts directly on an **inte
 
 https://mapty-ur.netlify.app/
 
-## 🚀 How To Use
+## 🚀 How to Use
 
 ### 🌎 Geolocation
 - The app requests your location on load to center the map on your current position (required to use the app).  
